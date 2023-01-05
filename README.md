@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá. Seja bem vindo aos meus repositórios do Github  👋
+### Aqui irei postar todo conteúdo complementar de meus canais de livestream e redes sociais 
+### para assuntos relacionados a desenvolvimento@frmichetti
 <!--
 **ahfeeeh/ahfeeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
