@@ -1,6 +1,6 @@
-### Olá. Seja bem vindo aos meus repositórios do Github  👋
-### Aqui irei postar todo conteúdo complementar de meus canais de livestream e redes sociais 
-### para assuntos relacionados a desenvolvimento, acesse minha conta principal @frmichetti
+### Olá. Seja bem vindo aos meus repositórios do Github 👋
+### Aqui irei postar todo conteúdo complementar de meus canais de livestream e redes sociais
+### Para assuntos relacionados a desenvolvimento de software, acesse minha conta principal <a href="https://www.github.com/@frmichetti"> @frmichetti</a>
 
 <a href="https://www.youtube.com/@ahfeeeh"> <img height="720em" src="./Banner.png"/></a>
 
